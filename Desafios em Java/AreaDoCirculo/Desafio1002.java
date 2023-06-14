@@ -20,7 +20,7 @@
  * 100.64                A=31819.3103
  * 150.00                A=70685.7750
  */
-package areaDoCirculo_1002;
+package AreaDoCirculo;
 import java.util.Scanner;
 
 public class Desafio1002 {
