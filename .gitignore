@@ -3,6 +3,7 @@
 /workspace.xml
 /.idea
 /.vscode
-/src
+/bin
+/out
 exercises-beecrowd.iml
 README.md
